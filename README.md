@@ -1,7 +1,7 @@
 # TTOS0300 User Interface Course Project
 
 
-* Jaber Askari M2947
+*
 * 2019 
 * Version 1.00
 * Link for youtube video presintation
@@ -9,7 +9,7 @@
 # Presentation
 
 Click on the image to watch the youtube video presentation of my project<br>
-[![](/images/main2.png)](https://www.youtube.com/watch?v=EP7nB_wyQyA&feature=youtu.be "")
+
 
 
 ## Table of contents
@@ -210,9 +210,9 @@ MyMDB is a project for user interface course of Jamk University of Applied Scien
 MyMDB has been done entirely by Jaber Askari M2947. development of this application took about 80 hours.
 
 # Self Grading
-* Jaber Askar M2947
+* 
 * Suggested Garad : 5
-* I graded myself 5 becase I spent more than 80 hours on the application. Also I did all the requirements for the projects. Down there are all the things that I have done in this project:
+* I graded myself 5 because we spent more than 80 hours on the application. Also I did all the requirements for the projects. Down there are all the things that I have done in this project:
     * Getting data from Mysql database
     * Inserting Data to Mysql databse
     * Getting Data from API of TMDB
