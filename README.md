@@ -174,7 +174,7 @@ At the picture below you can see the tables, columns, types and relationships:
 <br>
 
 ## By clicking on Profile button user can see his/her personal information and all the movie in her/his personal database(Mysql)
-![](/images/profile.PNG)
+
 
 
 
