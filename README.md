@@ -206,8 +206,8 @@ The subject that I should improve is MVVM system and data binding. It is a very 
 
 
 # Developers of MyMDB
-MyMDB is a project for user interface course of Jamk University of Applied Science.
-MyMDB has been done entirely by Jaber Askari M2947. development of this application took about 80 hours.
+MyMDB is a project for C# object oriented programming 
+
 
 # Self Grading
 * 
