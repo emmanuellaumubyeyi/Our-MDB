@@ -1,17 +1,3 @@
-# TTOS0300 User Interface Course Project
-
-
-*
-* 2019 
-* Version 1.00
-* Link for youtube video presintation
-
-# Presentation
-
-Click on the image to watch the youtube video presentation of my project<br>
-
-
-
 ## Table of contents
 
 * [Product Description](#introduction)
@@ -35,9 +21,7 @@ Click on the image to watch the youtube video presentation of my project<br>
 
 # Introduction
 
-![](images/logo.PNG) <br>
-
-In this project I made a movie database application. Name of the application is MyMDB.
+In this project we made a movie database application. Name of the application is ourMDB.
 MyMDB is application that a user can search for movies, save movies informations in his/her own database using Mysql. User also can add a movie and delete a movie from his/her
 own database. In additon,t application uses the TMDB API to fetch movie's information from the TMDB website each time the application opens or user search for something.
 Adding a movie or deleting a movie from Mysql database is restricted to users who have an account in the application. Application can be used with out having an account but
@@ -48,7 +32,7 @@ user can only search for movies from the TMDB and see popular movies not anythin
 # Application Description
 
 
-MyMDB application is meant for personal use generally. Users with out an account in the application can use the application for searching and getting information about movies, in
+OURMDB application is meant for personal use generally. Users with out an account in the application can use the application for searching and getting information about movies, in
 this case the information is fetched from the TMDB website using a free API.
 If the user creats an account in the application, user can save the information of his/her personal movies in the server of
 the application. Users with account can save, add, remove and search movies from his/her own personal movie database.
